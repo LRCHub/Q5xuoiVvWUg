@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "ダンデライオン",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2025-12-01T04:12:59.253972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ダンデライオン・ワイン",
+      "artist": "Blackmore's Night",
+      "has_synced": false,
+      "path": "select/01_ダンデライオン・ワイン_Blackmore's_Night.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ダンデライオン~遅咲きのたんぽぽ",
+      "artist": "徳永英明",
+      "has_synced": false,
+      "path": "select/02_ダンデライオン~遅咲きのたんぽぽ_徳永英明.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_ダンデライオン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ダンデライオン ~ 遅咲きのたんぽぽ",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/04_ダンデライオン_~_遅咲きのたんぽぽ_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンデライオン ~ 遅咲きのたんぽぽ",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/05_ダンデライオン_~_遅咲きのたんぽぽ_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/06_ダンデライオン_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/07_ダンデライオン_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ダンデライオン〜遅咲きのたんぽぽ",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/08_ダンデライオン〜遅咲きのたんぽぽ_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダンデライオン - DANDELION",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/09_ダンデライオン_-_DANDELION_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ダンデライオン - BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY2 -",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/10_ダンデライオン_-_BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY2_-_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダンデライオン〜遅咲きのたんぽぽ〜",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/11_ダンデライオン〜遅咲きのたんぽぽ〜_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダンデライオン〜遅咲きのたんぽぽ",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/12_ダンデライオン〜遅咲きのたんぽぽ_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/13_ダンデライオン_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダンデライオン - Dandelion",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/14_ダンデライオン_-_Dandelion_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "天野月子",
+      "has_synced": false,
+      "path": "select/15_ダンデライオン_天野月子.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ダンデライオン ~ 遅咲きのたんぽぽ",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/16_ダンデライオン_~_遅咲きのたんぽぽ_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ダンデライオン",
+      "artist": "DaizyStripper",
+      "has_synced": false,
+      "path": "select/17_ダンデライオン_DaizyStripper.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ダンデライオン ～ 遅咲きのたんぽぽ",
+      "artist": "Yumi Matsutoya",
+      "has_synced": true,
+      "path": "select/18_ダンデライオン_~_遅咲きのたんぽぽ_Yumi_Matsutoya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダンデライオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_ダンデライオン_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ダンデライオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_02_ダンデライオン_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ダンデライオン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_03_ダンデライオン_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ダンデライオン～遅咲きのたんぽぽ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_04_ダンデライオン~遅咲きのたんぽぽ_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ダンデライオン～遅咲きのタンポポ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_05_ダンデライオン~遅咲きのタンポポ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
